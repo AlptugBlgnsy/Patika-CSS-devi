@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(191, 192, 201);
+}
+h1 {
+    color:black;
+    font-size: 32px;
+    margin: auto;
+    text-align: center;
+}
+h2 {
+    color:black;
+    font-size: 22px;
+    margin: auto;
+    text-align: center;
+}
+nav {
+    color:black;
+    font-size: 18px;
+    margin: auto;
+    text-align: center;
+}
+h3 {
+    color:black;
+    font-size: 22px;
+    margin: auto;
+    text-align: center;
+}
+h4 {
+    color:black;
+    font-size: 22px;
+    margin: auto;
+    text-align: center;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;   
+}
+ul {
+    width: 200px;
+      margin: 0 auto;
+      font-size: 18px;
+
+}
+ol {
+    width: 200px;
+      margin: 0 auto;
+      font-size: 18px;
+
+}
