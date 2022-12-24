@@ -1,2 +1,2 @@
 # Patika-CSS-devi
-patika.dev
+www.patika.dev
